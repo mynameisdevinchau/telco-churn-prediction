@@ -1,0 +1,30 @@
+0
+SeniorCitizen
+tenure
+MonthlyCharges
+TotalCharges
+charge_per_tenure
+monthly_charge_bin
+high_value_flag
+is_new_customer
+is_loyal_customer
+contract_risk_score
+is_autopay
+paperless_billing
+addon_count
+has_protection
+is_streaming_only
+fiber_no_protection
+is_senior
+has_dependents
+has_partner
+is_independent
+MultipleLines_No phone service
+MultipleLines_Yes
+InternetService_Fiber optic
+InternetService_No
+Contract_One year
+Contract_Two year
+tenure_bucket_developing
+tenure_bucket_established
+tenure_bucket_loyal
