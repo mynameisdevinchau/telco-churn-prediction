@@ -4,7 +4,6 @@ tenure
 MonthlyCharges
 TotalCharges
 charge_per_tenure
-monthly_charge_bin
 high_value_flag
 is_new_customer
 is_loyal_customer

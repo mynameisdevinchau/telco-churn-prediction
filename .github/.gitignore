@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data — raw data never committed
+data/raw/
+data/processed/
+
+# Models — too large for git
+models/*.pkl
+
+# Keep feature_columns.csv and model_results.csv
+!models/feature_columns.csv
+!models/model_results.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml

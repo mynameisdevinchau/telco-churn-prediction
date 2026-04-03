@@ -1,0 +1,4 @@
+,roc_auc,pr_auc,precision,recall,f1
+logistic_churn,0.8217,0.6026,0.5171,0.7701,0.6187
+random_forest_churn,0.8343,0.6223,0.5016,0.8209,0.6227
+xgboost_churn,0.8328,0.6358,0.5262,0.7246,0.6097
