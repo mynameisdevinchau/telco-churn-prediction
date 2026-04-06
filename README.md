@@ -1,5 +1,8 @@
 # Telco Customer Churn Prediction
 
+Live Dashboard URL:
+https://telco-churn-prediction-ancgfmdqjmgn58dkahgd42.streamlit.app/
+
 A production-style churn prediction pipeline built on the IBM Telco Customer Churn dataset. The project covers the full lifecycle — data cleaning, feature engineering, model training, and a Streamlit dashboard that surfaces actionable retention insights for business stakeholders.
 
 **[Live Dashboard →](https://your-app.streamlit.app)** _(update after deploying to Streamlit Cloud)_
